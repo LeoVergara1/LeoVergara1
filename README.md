@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon Vergara, Developer Software 👨🏻‍💻</h1>
+<h1>Hi, I'm Brandon Vergara, Developer Software 🦁</h1>
 
 <img alt="" src="assets/goku.gif"> </img></h1>
 
@@ -48,7 +48,7 @@
   <img src="assets/image_tools/Postgres.png" width="30" height="30" style="max-width: 100%;">
 </p>
 
-<h3>💻 GitHub Profile Stats</h3>
+<h3>GitHub Stats 🦁</h3>
 <br>
   <img alt="LeoVergara1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoVergara1&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="190px"/>
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LeoVergara1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoVergara1&theme=dark&hide_border=false"/>
